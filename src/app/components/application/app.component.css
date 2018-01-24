@@ -1,0 +1,12 @@
+
+div {
+  background: lightpink;
+  height: 500px;
+}
+
+.myvalue {
+  background: lightblue;
+  height: 50px;
+  align-items: center;
+  padding:20px;
+}
